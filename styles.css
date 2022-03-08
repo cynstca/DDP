@@ -36,9 +36,12 @@ body{
 	/*background-color: yellowgreen;*/
 	line-height: 40px;
 	font-weight: bold;
+	color: #FF8AAE;
 }
 .headerr_right>span{
 	float: right;
 	line-height: 40px;
 	font-weight: bold;
+	color: #FF8AAE;
+
 }
