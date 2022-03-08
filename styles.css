@@ -33,7 +33,7 @@ body{
 /*设置header字体样式*/
 .headerr_left>div{
 	float: left;
-	background-color: darkred;
+	background-color: yellow;
 	line-height: 40px;
 }
 .headerr_left>div>span{
