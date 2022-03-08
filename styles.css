@@ -36,14 +36,14 @@ a{
 
 }
 /*设置header字体样式*/
-.headerr_left>span{
+.headerr_left>div>span{
 	float: left;
 	/*background-color: yellowgreen;*/
 	line-height: 40px;
 	font-weight: bold;
 	color: #FF8AAE;
 }
-.headerr_right>span{
+.headerr_right>div>span{
 	float: right;
 	line-height: 40px;
 	font-weight: bold;
