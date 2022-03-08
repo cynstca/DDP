@@ -6,6 +6,9 @@ body{
 	background-color: #9ADCFF;
 	font-size: 20px;
 }
+a{
+	text-decoration: none;
+}
 #headerr{
 	width: 100%;
 	height: 40px;
