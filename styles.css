@@ -53,6 +53,7 @@ a{
 
 .headerr_left>div:nth-child(2)>a,.headerr_left>div:nth-child(2)>a>img,.headerr_left>div:nth-child(1)>a>i{
 	float: left;
+	line-height: 40px;
 }
 .headerr_left>div:nth-child(2)>a>img{
 	width: 20px;
