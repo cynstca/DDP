@@ -35,8 +35,10 @@ body{
 	float: left;
 	/*background-color: yellowgreen;*/
 	line-height: 40px;
+	font-weight: bold;
 }
 .headerr_right>span{
 	float: right;
 	line-height: 40px;
+	font-weight: bold;
 }
