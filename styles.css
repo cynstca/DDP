@@ -50,6 +50,10 @@ a{
 	color: #FF8AAE;
 
 }
+.headerr_left>div:first-child{
+	background-color: black;
+}
+
 .headerr_left>div:nth-child(1)>a,.headerr_left>div:nth-child(1)>a>img,.headerr_left>div:nth-child(1)>a>i{
 	float: left;
 }
