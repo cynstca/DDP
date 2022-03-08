@@ -16,6 +16,7 @@ body{
 	height: 40px;
 	/*background-color: greenyellow;*/
 	/*定义边框*/
+	border: 1px solid red;
 }
 .headerr_left{
 	width: 200px;
