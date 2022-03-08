@@ -32,7 +32,11 @@ body{
 }
 /*设置header字体样式*/
 .headerr_left>span{
+	float: left;
+	/*background-color: yellowgreen;*/
+	line-height: 40px;
+}
+.headerr_right>span{
 	float: right;
-	background-color: yellowgreen;
 	line-height: 40px;
 }
