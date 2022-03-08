@@ -8,24 +8,34 @@ body{
 #headerr{
 	width: 100%;
 	height: 40px;
-	background-color: aqua;
+	/*background-color: aqua;*/
 
 }
 .headerr{
 	width: 1200px;
 	height: 40px;
-	background-color: greenyellow;
+	/*background-color: greenyellow;*/
+	/*定义边框*/
 }
 .headerr_left{
 	width: 200px;
 	height: 40px;
-	background-color: red;
+	/*background-color: red;*/
 	float: left;
 }
 .headerr_right{
 	width:400px ;
 	height: 40px;
-	background-color: grey;
+	/*background-color: grey;*/
 	float: right;
 
+}
+/*设置header字体样式*/
+.headerr_left>div{
+	float: left;
+	background-color: darkred;
+	line-height: 40px;
+}
+.headerr_left>div>span{
+	font-weight: bold;
 }
