@@ -18,7 +18,7 @@ a{
 .headerr{
 	width: 1200px;
 	height: 40px;
-	background-color: greenyellow;
+	/*background-color: greenyellow;*/
 	/*定义边框*/
 	border: 1px solid red;
 }
@@ -57,5 +57,4 @@ a{
 }
 .headerr_left>div:nth-child(2)>a>img{
 	width: 20px;
-	line-height: 40px;
 }
