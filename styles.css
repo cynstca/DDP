@@ -39,10 +39,11 @@ main{
 main a{
 	text-decoration: none;
 }
-main a:hover{
+/*why i cannot change the navigator color when i click */
+/*main a:hover{
 	background-color: #555;
     color: white;
-}
+}*/
 #headerr{
 	width: 100%;
 	height: 40px;
