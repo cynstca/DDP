@@ -5,15 +5,18 @@ p{
 body{
 	/*margin: 0;*/
 	font-family: 'Fredoka', sans-serif;
-	background-color: #CAF0F8;
+	/*background-color: #CAF0F8;*/
 	font-size: 16px;
 	line-height: 30px;
 	text-align:center;
 	
 }
+header{
+	background-color: #00B4D8;
+}
 main{
-	border: 20px #FFF1CE;
-	background-color: #FFF1CE;
+	border: 20px #CAF0F8;
+	background-color: #CAF0F8;
 }
 a{
 	text-decoration: none;
