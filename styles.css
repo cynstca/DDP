@@ -23,13 +23,13 @@ a{
 	border: 1px solid red;
 }
 .headerr_left{
-	width: 600px;
+	width: 450px;
 	height: 40px;
 	/*background-color: red;*/
 	float: left;
 }
 .headerr_right{
-	width:400px ;
+	width:600px ;
 	height: 40px;
 	background-color: grey;
 	float: right;
