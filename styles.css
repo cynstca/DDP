@@ -82,7 +82,9 @@ a{
 
 
 .headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
-	float: left;
+	/*float: left;*/
+	position: absolute;
+	left: 10px;
 	line-height: 60px;
 	color: #03045E;
 	font-weight: bold;
