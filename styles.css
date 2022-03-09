@@ -86,7 +86,7 @@ a{
 	font-weight: bold;
 	font-size: 25px;
 */}
-/*why i cantnot change the navigator color when i co*/
+/*why i cantnot change the navigator color when i click*/
 /*.headerr_right>div:nth-child(1)>a: hover{
 	background-color: black;
 	color: white;
@@ -106,6 +106,8 @@ a{
 
 }
 .headerr_right>div:nth-child(2)>a>img{
+	position: relative;
+	left: 5px;
 	width: 30px;
 }
 
