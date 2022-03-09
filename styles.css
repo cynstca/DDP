@@ -75,9 +75,9 @@ a{
 	font-size: 50px;
 	font-weight: bold;
 	color: #03045E;
-/*	position: absolute;
+	position: absolute;
 	left: 20px;
-	*/
+	
 }
 
 
@@ -87,7 +87,7 @@ a{
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
-*/}
+}
 /*why i cantnot change the navigator color when i click*/
 /*.headerr_right>div:nth-child(1)>a: hover{
 	background-color: black;
