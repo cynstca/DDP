@@ -3,7 +3,7 @@ p{
 }
 
 body{
-	/*margin: 0;*/
+	margin: 0;
 	font-family: 'Fredoka', sans-serif;
 	background-color: #CAF0F8;
 	font-size: 16px;
@@ -48,7 +48,7 @@ a{
 }
 .headerr_left{
 	width: 600px;
-	height: 40px;
+	height: 60px;
 	/*background-color: black;*/
 	float: left;
 }
@@ -56,7 +56,7 @@ a{
 }
 .headerr_right{
 	width:200px ;
-	height: 40px;
+	height: 60px;
 	background-color: grey;
 	float: right;
 
@@ -65,7 +65,7 @@ a{
 .headerr_left>div>span{
 	float: left;
 	/*background-color: hotpink;*/
-	line-height: 40px;
+	line-height: 60px;
 	font-size: 50px;
 	font-weight: bold;
 	color: #03045E;
@@ -74,7 +74,7 @@ a{
 
 .headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
 	float: left;
-	line-height: 40px;
+	line-height: 60px;
 	color: #03045E;
 	font-weight: bold;
 */}
