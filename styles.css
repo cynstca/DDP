@@ -8,7 +8,7 @@ body{
 	background-color: #CAF0F8;
 	font-size: 16px;
 	line-height: 30px;
-	/*text-align:center;*/
+	text-align:center;
 	
 }
 
@@ -100,6 +100,6 @@ a{
 	width: 30px;
 }
 
-.history{
+/*.history{
 	width: 800px;
-}
+}*/
