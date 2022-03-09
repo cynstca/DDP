@@ -3,8 +3,10 @@ p{
 }
 
 body{
+	margin: 0;
 	background-color: #CAF0F8;
-	font-size: 16px;
+	font-size: 20px;
+	line-height: 30px;
 }
 a{
 	text-decoration: none;
