@@ -69,22 +69,25 @@ a{
 }
 /*设置header字体样式*/
 .headerr_left>div>span{
-	float: left;
+	/*float: left;*/
 	/*background-color: hotpink;*/
 	line-height: 60px;
 	font-size: 50px;
 	font-weight: bold;
 	color: #03045E;
+	position: absolute;
 	left: 30px;
 }
 
 
 .headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
-	float: left;
+	/*float: left;*/
 	line-height: 60px;
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
+	position: absolute;
+	left: 500px;
 */}
 /*why i cantnot change the navigator color when i click*/
 /*.headerr_right>div:nth-child(1)>a: hover{
@@ -93,6 +96,7 @@ a{
 }*/
 .headerr_right>div:nth-child(1)>a>img{
 	position: relative;
+	left: 20;
 	top: 10px;
 	width: 30px;
 }
