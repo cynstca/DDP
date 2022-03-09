@@ -12,7 +12,8 @@ body{
 	
 }
 h1{
-	text-align:center
+	text-align:center;
+	font-weight: bold ;
 }
 header{
 	/*margin: 0px;*/
