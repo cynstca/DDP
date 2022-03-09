@@ -86,7 +86,7 @@ a{
 	font-weight: bold;
 	font-size: 25px;
 */}
-.headerr_right>div:nth-child(1)>a: hover{
+.headerr_right>div: hover{
 	background-color: black;
 	color: white;
 }
