@@ -97,17 +97,19 @@ a{
 }
 
 .headerr_right>div:nth-child(2),.headerr_right>div:nth-child(2)>a>img{
-	float: right;
+	/*float: right;*/
 	line-height: 60px;
 	font-weight: bold;
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
+	position: relative;
+	left: 30px;
 
 }
 .headerr_right>div:nth-child(2)>a>img{
 	position: relative;
-	left: 10px;
+	left: 5px;
 	width: 30px;
 }
 
