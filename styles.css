@@ -23,8 +23,7 @@ header{
 header img{
 	border-radius: 170px;
 	width: 300px;
-	border: 20px;
-	border-color: #FFF1CE;
+	border: 20px solid #FFF1CE;
 }
 
 main{
