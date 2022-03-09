@@ -71,12 +71,12 @@ a{
 .headerr_left>div>span{
 	/*float: left;*/
 	/*background-color: hotpink;*/
-	line-height: 50px;
+	line-height: 55px;
 	font-size: 50px;
 	font-weight: bold;
 	color: #03045E;
 	position: absolute;
-	left: 10px;
+	left: 20px;
 	
 }
 
