@@ -18,6 +18,11 @@ header{
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
+}
 
 main{
 	border: 400px black;
