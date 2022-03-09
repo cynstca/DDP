@@ -110,6 +110,8 @@ a{
 }
 .headerr_right>div:nth-child(2)>a>img{
 	width: 30px;
+	position: relative;
+	top: 10px;
 }
 
 .taxonomyimage{
