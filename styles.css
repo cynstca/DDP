@@ -94,7 +94,7 @@ a{
 	color: white;
 }*/
 .headerr_right>div:nth-child(1)>a>img{
-	position: absolute;
+	position: relative;
 	top: 10px;
 	width: 30px;
 }
