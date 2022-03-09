@@ -96,7 +96,7 @@ a{
 }*/
 .headerr_right>div:nth-child(1)>a>img{
 	position: relative;
-	left: 20px;
+	left: 10px;
 	top: 5px;
 	width: 30px;
 }
