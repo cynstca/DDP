@@ -113,9 +113,10 @@ a{
 	height: 150px;
 }
 .taxonomyimage>img{
-	position: absolute;
+	/*1张图片水平居中*/
+/*	position: absolute;
 	left: 50%;
-	transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);*/
 	/*width: 200px;
 	height: 150px;
 	float: left;*/
