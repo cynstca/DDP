@@ -61,7 +61,7 @@ a{
 }
 
 .headerr_right>div:nth-child(2){
-	float: left;
+	float: right;
 	line-height: 40px;
 	font-weight: bold;
 	color: #03045E;
