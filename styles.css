@@ -3,7 +3,7 @@ p{
 }
 
 body{
-	background-color: #EEEEEE;
+	background-color: #CAF0F8;
 	font-size: 16px;
 }
 a{
@@ -41,14 +41,14 @@ a{
 	/*background-color: hotpink;*/
 	line-height: 40px;
 	font-weight: bold;
-	color: #FF8AAE;
+	color: #03045E;
 }
 
 
 .headerr_left>div:nth-child(2)>a,.headerr_left>div:nth-child(2)>a>img{
 	float: left;
 	line-height: 40px;
-	color: #FF8AAE;
+	color: #03045E;
 }
 .headerr_left>div:nth-child(2)>a>img{
 	width: 20px;
@@ -58,5 +58,5 @@ a{
 	float: right;
 	line-height: 40px;
 	font-weight: bold;
-	color: #FF8AAE;
+	color: #03045E;
 }
