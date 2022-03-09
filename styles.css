@@ -106,3 +106,12 @@ a{
 /*.history{
 	width: 800px;
 }*/
+.taxonomyimage{
+	width: 600px;
+	height: 200px;
+}
+.taxonomyimage>img{
+	width: 300px;
+	height: 200px;
+	float: left;
+}
