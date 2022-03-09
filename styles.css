@@ -36,7 +36,7 @@ main{
 /*	border: 400px black;*/
 	background-color: #CAF0F8;
 }
-main a{
+a{
 	text-decoration: none;
 }
 /*why i cannot change the navigator color when i click */
