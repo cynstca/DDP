@@ -8,12 +8,17 @@ body{
 	background-color: #CAF0F8;
 	font-size: 16px;
 	line-height: 30px;
-	text-align:center;
+	/*text-align:center;*/
 	
 }
+
 header{
 	background-color: #00B4D8;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
+
 main{
 	border: 400px black;
 	background-color: #CAF0F8;
