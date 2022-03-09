@@ -18,6 +18,7 @@ header{
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
+	float: none;
 }
 header img{
 	border-radius: 170px;
