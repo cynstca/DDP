@@ -96,7 +96,7 @@ a{
 .headerr_right>div:nth-child(1)>a>img{
 	position: relative;
 	top: 13px;
-	width: 50px;
+	width: 30px;
 }
 
 .headerr_right>div:nth-child(2),.headerr_right>div:nth-child(2)>a>img{
@@ -113,7 +113,7 @@ a{
 	width: 30px;
 	position: relative;
 	top: 13px;
-	left: 50px;
+	left: 20px;
 }
 
 .taxonomyimage{
