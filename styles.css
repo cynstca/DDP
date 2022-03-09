@@ -71,24 +71,24 @@ a{
 .headerr_left>div>span{
 	/*float: left;*/
 	/*background-color: hotpink;*/
+	position: absolute;
+	left: 30px;
 	line-height: 60px;
 	font-size: 50px;
 	font-weight: bold;
 	color: #03045E;
-	position: absolute;
-	left: 30px;
 }
 
 
 .headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
 	/*float: left;*/
+	position: absolute;
+	left: 600px;
 	line-height: 60px;
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
-	position: absolute;
-	left: 600px;
-*/}
+}
 /*why i cantnot change the navigator color when i click*/
 /*.headerr_right>div:nth-child(1)>a: hover{
 	background-color: black;
@@ -103,13 +103,13 @@ a{
 
 .headerr_right>div:nth-child(2),.headerr_right>div:nth-child(2)>a>img{
 	/*float: right;*/
+	position: absolute;
+	left: 1000px;
 	line-height: 60px;
 	font-weight: bold;
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
-	position: absolute;
-	left: 1000px;
 
 }
 .headerr_right>div:nth-child(2)>a>img{
