@@ -36,8 +36,12 @@ main{
 /*	border: 400px black;*/
 	background-color: #CAF0F8;
 }
-a{
+main a{
 	text-decoration: none;
+}
+main a:hover{
+	background-color: #555;
+    color: white;
 }
 #headerr{
 	width: 100%;
@@ -86,9 +90,9 @@ a{
 	font-weight: bold;
 	font-size: 25px;
 */}
-.headerr_right>div: hover{
+/*.headerr_right>div: hover{
 	background-color: black;
-	color: white;
+	color: white;*/
 }
 .headerr_right>div:nth-child(1)>a>img{
 	
