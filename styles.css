@@ -13,7 +13,7 @@ body{
 }
 
 header{
-	margin: 0px;
+	/*margin: 0px;*/
 	background-color: #00B4D8;
 	text-align: center;
 	padding-top: 50px;
@@ -79,12 +79,13 @@ a{
 	font-weight: bold;
 */}
 .headerr_right>div:nth-child(1)>a>img{
+	
 	width: 20px;
 }
 
 .headerr_right>div:nth-child(2),.headerr_right>div:nth-child(2)>a>img{
 	float: right;
-	line-height: 40px;
+	line-height: 60px;
 	font-weight: bold;
 	color: #03045E;
 }
