@@ -50,6 +50,7 @@ a{
 	float: left;
 	line-height: 40px;
 	color: #03045E;
+	font-weight: bold;
 }
 .headerr_right>div:nth-child(1)>a>img{
 	width: 20px;
