@@ -63,21 +63,19 @@ a{
 .headerr_right{
 	width:200px ;
 	height: 60px;
-	/*background-color: grey;*/
+	background-color: grey;
 	float: right;
 
 }
 /*设置header字体样式*/
 .headerr_left>div>span{
-	/*float: left;*/
+	float: left;
 	/*background-color: hotpink;*/
-	line-height: 55px;
+	line-height: 60px;
 	font-size: 50px;
 	font-weight: bold;
 	color: #03045E;
-	position: absolute;
-	left: 20px;
-	
+	left: 30px;
 }
 
 
@@ -87,33 +85,28 @@ a{
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
-}
-/*why i cantnot change the navigator color when i click*/
+*/}
+/*why i cantnot change the navigator color when i co*/
 /*.headerr_right>div:nth-child(1)>a: hover{
 	background-color: black;
 	color: white;
 }*/
 .headerr_right>div:nth-child(1)>a>img{
-	position: relative;
-	top: 13px;
+	
 	width: 30px;
 }
 
 .headerr_right>div:nth-child(2),.headerr_right>div:nth-child(2)>a>img{
-	/*float: right;*/
-	position: relative;
-	left: 100px;
+	float: right;
 	line-height: 60px;
 	font-weight: bold;
 	color: #03045E;
+	font-weight: bold;
 	font-size: 25px;
 
 }
 .headerr_right>div:nth-child(2)>a>img{
 	width: 30px;
-	position: relative;
-	top: 7px;
-	left: 5px;
 }
 
 .taxonomyimage{
