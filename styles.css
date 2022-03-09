@@ -8,10 +8,12 @@ body{
 	background-color: #CAF0F8;
 	font-size: 16px;
 	line-height: 30px;
-	text-align:center;
+	/*text-align:center;*/
 	
 }
-
+h1{
+	text-align:center
+}
 header{
 	/*margin: 0px;*/
 	background-color: #00B4D8;
