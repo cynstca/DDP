@@ -46,16 +46,16 @@ a{
 }
 
 
-.headerr_right>div:nth-child(2)>a,.headerr_right>div:nth-child(2)>a>img{
+.headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
 	float: right;
 	line-height: 40px;
 	color: #03045E;
 }
-.headerr_right>div:nth-child(2)>a>img{
+.headerr_right>div:nth-child(1)>a>img{
 	width: 20px;
 }
 
-.headerr_right>first-div{
+.headerr_right>div:nth-child(2){
 	float: right;
 	line-height: 40px;
 	font-weight: bold;
