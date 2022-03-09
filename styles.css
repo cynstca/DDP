@@ -55,7 +55,7 @@ a{
 }
 
 .headerr_right>first-div{
-	float: right;
+	/*float: right;*/
 	line-height: 40px;
 	font-weight: bold;
 	color: #FF8AAE;
