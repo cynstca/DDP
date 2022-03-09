@@ -27,11 +27,18 @@ a{
 .headerr_left{
 	width: 450px;
 	height: 40px;
-	/*background-color: red;*/
+	background-color: black;
 	float: left;
 }
+.headerr_mediam{
+	width:200px ;
+	height: 40px;
+	/*background-color: grey;*/
+	float: right;
+
+}
 .headerr_right{
-	width:300px ;
+	width:3px ;
 	height: 40px;
 	/*background-color: grey;*/
 	float: right;
@@ -47,7 +54,7 @@ a{
 	color: #03045E;
 }
 
-.headder_mediam>div>a,.headerr_mediam>div>a>img{
+.headerr_mediam>div>a,.headerr_mediam>div>a>img{
 	float: left;
 	line-height: 40px;
 	color: #03045E;
