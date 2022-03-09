@@ -12,7 +12,8 @@ body{
 	
 }
 main{
-	border: 20px solid white;
+	border: 20px #FFF1CE;
+	background-color: #FFF1CE;
 }
 a{
 	text-decoration: none;
