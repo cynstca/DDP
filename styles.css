@@ -29,7 +29,7 @@ a{
 	float: left;
 }
 .headerr_right{
-	width:600px ;
+	width:500px ;
 	height: 40px;
 	background-color: grey;
 	float: right;
@@ -47,7 +47,7 @@ a{
 
 
 .headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
-	float: right;
+	float: left;
 	line-height: 40px;
 	color: #03045E;
 }
