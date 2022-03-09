@@ -80,15 +80,12 @@ a{
 
 
 .headerr_right>div:nth-child(1)>a,.headerr_right>div:nth-child(1)>a>img{
-	/*float: left;*/
+	float: left;
 	line-height: 60px;
 	color: #03045E;
 	font-weight: bold;
 	font-size: 25px;
-	position: absolute;
-	left: 500px;
-
-}
+*/}
 /*why i cantnot change the navigator color when i click*/
 /*.headerr_right>div:nth-child(1)>a: hover{
 	background-color: black;
