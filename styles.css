@@ -95,7 +95,7 @@ a{
 }*/
 .headerr_right>div:nth-child(1)>a>img{
 	position: relative;
-	top: 13px;
+	top: 10px;
 	width: 30px;
 }
 
@@ -112,7 +112,7 @@ a{
 .headerr_right>div:nth-child(2)>a>img{
 	width: 30px;
 	position: relative;
-	top: 12px;
+	top: 10px;
 	left: 5px;
 }
 
