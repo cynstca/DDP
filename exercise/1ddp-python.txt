@@ -1,0 +1,26 @@
+Q2  
+a=input("enter words:")
+  b=a.replace(" ","")
+  c=b.upper()
+  d=list()
+
+  count=0
+  for letter in list(c):
+    if letter not in d:
+      d.append(letter)
+      count=count+1
+  final=d
+  print(final,count)
+
+ Q3:
+def case_count(str):
+    lowercase=0
+    uppercase=0
+    for letter in str:
+        if letter.isupper():
+            uppercase=uppercase+1
+        elif letter.islower():
+            lowercase=lowercase+1
+    print(f'(\'Uppercase:{uppercase}\',\'Lowercase:{lowercase}\')')
+    return
+case_count('Hello World')         
